@@ -2,7 +2,7 @@
 
 
 sleep 2
-figlet Eljoke X Black| lolcat
+figlet Eljoke X Black
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
