@@ -28,7 +28,7 @@ Team    : Eljoker X Black
 Code    : PHP
 Version : 8.9.8.0
 Note: 
-JANGAN PERCAYA KEPADA SIAPAPUN.!! \n";
+  Kalosha  , Dark sailor.!! \n";
 echo $bold . $green . "DMYH    : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
