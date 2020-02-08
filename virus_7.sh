@@ -12,7 +12,6 @@ pink= \033[1;35m
 #-----------------
 # scripting starts
 clear
-toilet Eljoker X Black. team 
 echo  
                 
                          __________
