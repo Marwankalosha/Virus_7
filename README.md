@@ -52,7 +52,7 @@ $ cd Virus_7
 $ ls
 ```
 ```
-$ bash Virus_7.sh
+$ bash invirus_7.sh
 ```
 
 * Now you need internet connection to continue further process...
