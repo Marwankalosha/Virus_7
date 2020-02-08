@@ -12,7 +12,7 @@ pink= \033[1;35m
 #-----------------
 # scripting starts
 clear
-echo  
+echo'  
                 
                          __________
                       .~#########%%;~.
@@ -32,8 +32,8 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         Eljoker X Black
- |lolcat
+                    Eljoker X Black
+ '|lolcat
 echo " " 
 
 echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
