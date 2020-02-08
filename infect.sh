@@ -38,16 +38,16 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
 echo " " 
 
 echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                 ⫸$ylo youtube.com/Eljoker XBlack$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                   [Infect them with fun]$rset"
+echo -e "$red                   [Virus_7 them with fun]$rset"
 echo " "
 echo " "
 echo -e "$grn              ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [1️⃣] Infect now"
+echo -e "$red                        ➡$cyan [1️⃣] Virus_7 "
 echo -e "$red                        ➡$cyan [2️⃣] Save now"
 echo -e "$red                        ➡️$cyan [3️⃣] Update script"
 echo -e "$red                        ➡$cyan [4️⃣] Exit"
@@ -62,32 +62,32 @@ case "$n" in
 1)echo " "
 echo " "
 echo " "
-echo -e "$red               You are going to$grn Infect$red Now$rset"
+echo -e "$red               You are going to$grn Virus_7$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/Infect/lol
+cd $HOME/Virus_7/lol
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/Infect/
-bash infect.sh
+cd $HOME/Virus_7/
+bash Virus_7.sh
 else
 bash sysup.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan            click$grn ENTER$cyan to go back into infect  menu$rset"
+echo -e "$cyan            click$grn ENTER$cyan to go back into Virus_7  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/Infect/
-bash infect.sh ;;
+cd $HOME/Virus_7/
+bash Virus_7.sh ;;
 2)echo " "
 echo " "
 echo " "
@@ -96,15 +96,15 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/Infect/lol
+cd $HOME/Virus_7/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
 read nitroo
-cd $HOME/Infect
-bash infect.sh
+cd $HOME/Virus_7
+bash Virus_7.sh
 else
 bash save.sh
 echo " "
@@ -115,8 +115,8 @@ echo -e "$cyan             click$grn ENTER$cyan to go back into infect  menu$rse
 echo " "
 read punch
 fi
-cd $HOME/Infect
-bash infect.sh ;;
+cd $HOME/Virus_7
+bash Virus_7.sh ;;
 3)echo " "
 echo " "
 echo " "
@@ -125,27 +125,27 @@ echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 read mon
-cd $HOME/Infect/lol
+cd $HOME/Virus_7/lol
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                 Are you sure? Press$grn ENTER$red to exit$rset"
 read monn
-cd $HOME/Infect
-bash infect.sh
+cd $HOME/Virus_7
+bash Virus_7.sh
 else
 bash update.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
 echo " "
-echo -e "$cyan        click$grn ENTER$cyan to go back into infect  menu$rset"
+echo -e "$cyan        click$grn ENTER$cyan to go back into Virus_7  menu$rset"
 echo " "
 read punch
 fi
-cd $HOME/Infect
-bash infect.sh ;;
+cd $HOME/Virus_7
+bash Virus_7.sh ;;
 4)
 sleep 2.0
 clear
