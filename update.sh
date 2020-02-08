@@ -1,5 +1,5 @@
 Skip to content
-noob-hackers / infect
+Eljoker XBlack / Virus_7
 #colour section
 red='\033[1;31m'
 rset='\033[0m'
@@ -13,7 +13,7 @@ echo '
                   _  _  ___  ___   __  ____  ___ 
                  ( )( )(  ,\(   \ (  )(_  _)(  _)
                   )()(  ) _/ ) ) )/__\  )(   ) _)
-                  \__/ (_)  (___/(_)(_)(__) (___) v 1.0
+                  \__/ (_)  (___/(_)(_)(__) (___) 
 '|lolcat
 echo " "
 echo " "
@@ -33,19 +33,19 @@ sleep 2.0
 clear
 echo " "
 echo " "
-echo -e "$grn                updating the infect  please wait$rset"
+echo -e "$grn                updating the Virus_7  please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf infect
-git clone https://github.com/noob-hackers/infect
+rm -rf virus_7
+git clone https://github.com/Marwankalosha/Virus_7
 clear
 echo " "
 echo -e "$grn               infect has been updated check it now...$rset"
 sleep 3.0
 echo " "
 cd $HOME
-cd infect
-bash infect.sh
+cd Virus_7
+bash Virus_7.sh
 clear
 sleep 1.0
 
