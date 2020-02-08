@@ -26,6 +26,6 @@ echo " "
 echo " "
 sleep 50.0
 clear
-cd $HOME/infect
-bash infect.sh
+cd $HOME/Virus_7
+bash Virus_7.sh
 exit
