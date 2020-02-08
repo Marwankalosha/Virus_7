@@ -1,4 +1,4 @@
-<h1 align="center">Infect v1.0</h1>
+<h1 align="center">Virus_7</h1>
 <p align="center">
      A new way to spread a fun as virus by just sending link in android.
 </p>
@@ -10,7 +10,7 @@ Virus_7 is a bash based script which is officially made for termux users and fro
 [![Build Status](https://img.shields.io/github/stars/Marwankalosha/Virus.svg)](https://github.com/Marwan kalosha/Virus_7)
 [![Build Status](https://img.shields.io/github/forks/Marwankalosha/Virus_7.svg)](https://github.com/Marwan kalosha/Virus_7)
 [![License: MIT](https://img.shields.io/github/license/Marwankalosha/Virus_7.svg)](https://github.com/Marwankalosha/Virus_7)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Virus_7)
+[![Rawsec s CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Virus_7)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -59,7 +59,7 @@ $ bash Virus_7.sh
 
 * You can select any option by clicking on your keyboard
 
-* Note:- Don't delete any of the scripts included in lol file
+* Note:- Don t delete any of the scripts included in lol file
 
 # ?? ***More***:
 
