@@ -7,9 +7,9 @@
 
 Virus_7 is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/Marwankalosha.svg)](https://github.com/Marwankalosha)
-[![Build Status](https://img.shields.io/github/forks/Marwankalosha.svg)](https://github.com/Marwankalosha)
-[![License: MIT](https://img.shields.io/github/license/Marwankalosha.svg)](https://github.com/Marwankalosha)
+[![Build Status](https://img.shields.io/github/stars/Marwankalosha/.svg)](https://github.com/Marwankalosha)
+[![Build Status](https://img.shields.io/github/forks/Marwankalosha/.svg)](https://github.com/Marwankalosha)
+[![License: MIT](https://img.shields.io/github/license/Marwankalosha/.svg)](https://github.com/Marwankalosha)
 [![Rawsec s CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Virus_7)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
