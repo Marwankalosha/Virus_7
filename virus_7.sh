@@ -36,7 +36,7 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
  |lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
+echo -e "$red                      ▶ Coded by$grn Kalo4a$red ◀$rset"
 echo -e "$red                 ⫸$ylo youtube.com/Eljoker XBlack$red ⫷$rset"
 echo 
 # Functions
@@ -73,7 +73,7 @@ read choice
 if [ $choice =  t  ] ; then
 echo -e "$red                    Are you sure? Press$grn ENTER$red to exit$rset"
 read hulkee
-cd $HOME/Virus_7/
+cd $HOME/Virus_7/lol
 bash Virus_7.sh
 else
 bash sysup.sh
